@@ -6,4 +6,4 @@ If you want to use it just add the plugins folder and playMovieVP script (should
 
 attach script to your screen object (the thing you want to render screen on)... should work in ANYTHING, good luck working with the old code, updates coming within a few days.
 
-Pro Tip: Remove light probes from scripted object to remove the darkness.
+Pro Tip: Remove light probes from scripted object mesh renderer component in the inspector to remove darkness.
